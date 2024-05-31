@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kim/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/kim/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/kim/turtlebot3_ws/build/turtlebot3_example",
+        "/home/kim/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/kim/turtlebot3_ws/install/astra_plus/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/kim/pyorbbecsdk/install/lib/"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kim/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/kim/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/kim/turtlebot3_ws/build/turtlebot3_example",
+        "/home/kim/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/kim/turtlebot3_ws/install/astra_plus/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/kim/pyorbbecsdk/install/lib/"
+    ]
+}
